@@ -1,7 +1,7 @@
 import plivo
 
-auth_id = "MANZJJOGRLNZK0ZMZIMM"
-auth_token = "NmU2ZmRhMjYtOTE1OS00YWRiLWJlNmEtNTIxYzUy"
+auth_id = "XXXXX"
+auth_token = "XXXX"
 
 client = plivo.RestClient(auth_id, auth_token)
 
