@@ -68,7 +68,7 @@ def handle_action():
 
     elif digit == "2":
         dial = plivo.voice_response.Dial()
-        dial.add_number("14692463990")   # placeholder associate number
+        dial.add_number("XXXXXXXX")   # placeholder associate number
         response.add(dial)
 
     else:
